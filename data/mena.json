@@ -1,10 +1,23 @@
 {
-  "generated_at": "2026-04-28T11:20:39+08:00",
+  "generated_at": "2026-04-28T11:35:17+08:00",
   "region": "mena",
   "region_label": "MENA",
   "source": "ats-multi",
-  "record_count": 5,
+  "record_count": 16,
   "records": [
+    {
+      "company": "Capital.com",
+      "zone": "BHR",
+      "function": "Compliance / Risk",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "BH",
+      "source": "ats:lever",
+      "updated_at": "2026-04-28T11:35:17+08:00"
+    },
     {
       "company": "TMGM",
       "zone": "EGY",
@@ -16,7 +29,7 @@
       "salary_currency": "USD",
       "country": "EG",
       "source": "ats:workable",
-      "updated_at": "2026-04-28T11:20:39+08:00"
+      "updated_at": "2026-04-28T11:35:17+08:00"
     },
     {
       "company": "TMGM",
@@ -29,7 +42,7 @@
       "salary_currency": "USD",
       "country": "JO",
       "source": "ats:workable",
-      "updated_at": "2026-04-28T11:20:39+08:00"
+      "updated_at": "2026-04-28T11:35:17+08:00"
     },
     {
       "company": "TMGM",
@@ -42,7 +55,33 @@
       "salary_currency": "USD",
       "country": "MA",
       "source": "ats:workable",
-      "updated_at": "2026-04-28T11:20:39+08:00"
+      "updated_at": "2026-04-28T11:35:17+08:00"
+    },
+    {
+      "company": "Trading 212",
+      "zone": "OMN",
+      "function": "Marketing",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "OM",
+      "source": "ats:ashby",
+      "updated_at": "2026-04-28T11:35:17+08:00"
+    },
+    {
+      "company": "Capital.com",
+      "zone": "TUR",
+      "function": "Compliance / Risk",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "TR",
+      "source": "ats:lever",
+      "updated_at": "2026-04-28T11:35:17+08:00"
     },
     {
       "company": "Axi",
@@ -55,7 +94,72 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:greenhouse",
-      "updated_at": "2026-04-28T11:20:39+08:00"
+      "updated_at": "2026-04-28T11:35:17+08:00"
+    },
+    {
+      "company": "Capital.com",
+      "zone": "UAE",
+      "function": "Compliance / Risk",
+      "count": 3,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "AE",
+      "source": "ats:lever",
+      "updated_at": "2026-04-28T11:35:17+08:00"
+    },
+    {
+      "company": "CMC Markets",
+      "zone": "UAE",
+      "function": "Operations",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "AE",
+      "source": "ats:workday",
+      "updated_at": "2026-04-28T11:35:17+08:00"
+    },
+    {
+      "company": "CMC Markets",
+      "zone": "UAE",
+      "function": "Trading / Dealing",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "AE",
+      "source": "ats:workday",
+      "updated_at": "2026-04-28T11:35:17+08:00"
+    },
+    {
+      "company": "CMC Markets",
+      "zone": "UAE",
+      "function": "Compliance / Risk",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "AE",
+      "source": "ats:workday",
+      "updated_at": "2026-04-28T11:35:17+08:00"
+    },
+    {
+      "company": "Swissquote",
+      "zone": "UAE",
+      "function": "Sales / BD",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "AE",
+      "source": "ats:smartrecruiters",
+      "updated_at": "2026-04-28T11:35:17+08:00"
     },
     {
       "company": "ThinkMarkets",
@@ -68,7 +172,46 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:greenhouse",
-      "updated_at": "2026-04-28T11:20:39+08:00"
+      "updated_at": "2026-04-28T11:35:17+08:00"
+    },
+    {
+      "company": "XM",
+      "zone": "UAE",
+      "function": "Marketing",
+      "count": 4,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "AE",
+      "source": "ats:lever",
+      "updated_at": "2026-04-28T11:35:17+08:00"
+    },
+    {
+      "company": "XM",
+      "zone": "UAE",
+      "function": "Sales / BD",
+      "count": 3,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "AE",
+      "source": "ats:lever",
+      "updated_at": "2026-04-28T11:35:17+08:00"
+    },
+    {
+      "company": "XM",
+      "zone": "UAE",
+      "function": "Compliance / Risk",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "AE",
+      "source": "ats:lever",
+      "updated_at": "2026-04-28T11:35:17+08:00"
     }
   ]
 }

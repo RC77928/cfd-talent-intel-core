@@ -178,6 +178,66 @@ export const COMPANIES = [
   // OANDA — Greenhouse slug `oanda` returns 404. The audit flagged this as
   // "needs verification". OANDA's career portal at jobs.lever.co/oanda exists,
   // so we'll wire it up in Phase 2 via the Lever adapter.
+
+  // === Workday (CXS POST, auth-free) ===
+  // <tenant>.<host>.myworkdayjobs.com/wday/cxs/<tenant>/<site>/jobs
+  // host varies per customer (wd3, wd5, wd103, ...). Verified with HTTP 200.
+
+  {
+    name: "IG Group",
+    tier: "tier1",
+    ats: { provider: "workday", tenant: "ig", site: "EXT_IG", host: "wd103" },
+    defaultRegion: "eu",
+    defaultZone: "UK",
+  },
+  {
+    name: "CMC Markets",
+    tier: "tier1",
+    ats: { provider: "workday", tenant: "cmcmarkets", site: "CMC_Markets_Careers", host: "wd3" },
+    defaultRegion: "eu",
+    defaultZone: "UK",
+  },
+  {
+    name: "Saxo Bank",
+    tier: "tier1",
+    ats: { provider: "workday", tenant: "saxobank", site: "CareeratSaxoBank", host: "wd3" },
+    defaultRegion: "eu",
+    defaultZone: "DK",
+  },
+
+  // === SmartRecruiters ===
+  {
+    name: "Swissquote",
+    tier: "eu",
+    ats: { provider: "smartrecruiters", slug: "Swissquote" },
+    defaultRegion: "eu",
+    defaultZone: "CH",
+  },
+
+  // === Lever (with EU shard for XM) ===
+  {
+    name: "Capital.com",
+    tier: "multiasset",
+    ats: { provider: "lever", slug: "capital", shard: "us" },
+    defaultRegion: "eu",
+    defaultZone: "CY",
+  },
+  {
+    name: "XM",
+    tier: "growth",
+    ats: { provider: "lever", slug: "xm", shard: "eu" },
+    defaultRegion: "eu",
+    defaultZone: "CY",
+  },
+
+  // === Ashby ===
+  {
+    name: "Trading 212",
+    tier: "multiasset",
+    ats: { provider: "ashby", slug: "trading212" },
+    defaultRegion: "eu",
+    defaultZone: "BG",
+  },
 ];
 
 // Convenience accessor for run.js

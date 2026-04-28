@@ -12,6 +12,10 @@ import { resolve, dirname } from "node:path";
 import { COMPANIES, companiesByProvider } from "./companies.js";
 import { WorkableFetcher } from "./fetchers/workable.js";
 import { GreenhouseFetcher } from "./fetchers/greenhouse.js";
+import { WorkdayFetcher } from "./fetchers/workday.js";
+import { SmartRecruitersFetcher } from "./fetchers/smartrecruiters.js";
+import { LeverFetcher } from "./fetchers/lever.js";
+import { AshbyFetcher } from "./fetchers/ashby.js";
 import { aggregate, buildPayload } from "./core/pipeline.js";
 
 const args = new Set(process.argv.slice(2));
@@ -25,8 +29,12 @@ const log = {
 };
 
 const FETCHERS = [
-  { name: "workable",   provider: "workable",   ctor: WorkableFetcher },
-  { name: "greenhouse", provider: "greenhouse", ctor: GreenhouseFetcher },
+  { name: "workable",        provider: "workable",        ctor: WorkableFetcher },
+  { name: "greenhouse",      provider: "greenhouse",      ctor: GreenhouseFetcher },
+  { name: "workday",         provider: "workday",         ctor: WorkdayFetcher },
+  { name: "smartrecruiters", provider: "smartrecruiters", ctor: SmartRecruitersFetcher },
+  { name: "lever",           provider: "lever",           ctor: LeverFetcher },
+  { name: "ashby",           provider: "ashby",           ctor: AshbyFetcher },
 ];
 
 async function main() {
