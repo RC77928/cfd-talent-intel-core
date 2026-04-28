@@ -1,0 +1,74 @@
+{
+  "generated_at": "2026-04-28T11:20:39+08:00",
+  "region": "mena",
+  "region_label": "MENA",
+  "source": "ats-multi",
+  "record_count": 5,
+  "records": [
+    {
+      "company": "TMGM",
+      "zone": "EGY",
+      "function": "Compliance / Risk",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "EG",
+      "source": "ats:workable",
+      "updated_at": "2026-04-28T11:20:39+08:00"
+    },
+    {
+      "company": "TMGM",
+      "zone": "JOR",
+      "function": "Compliance / Risk",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "JO",
+      "source": "ats:workable",
+      "updated_at": "2026-04-28T11:20:39+08:00"
+    },
+    {
+      "company": "TMGM",
+      "zone": "MAR",
+      "function": "Compliance / Risk",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "MA",
+      "source": "ats:workable",
+      "updated_at": "2026-04-28T11:20:39+08:00"
+    },
+    {
+      "company": "Axi",
+      "zone": "UAE",
+      "function": "Compliance / Risk",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "AE",
+      "source": "ats:greenhouse",
+      "updated_at": "2026-04-28T11:20:39+08:00"
+    },
+    {
+      "company": "ThinkMarkets",
+      "zone": "UAE",
+      "function": "Compliance / Risk",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "AE",
+      "source": "ats:greenhouse",
+      "updated_at": "2026-04-28T11:20:39+08:00"
+    }
+  ]
+}
