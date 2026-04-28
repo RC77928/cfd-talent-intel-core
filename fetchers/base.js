@@ -73,6 +73,11 @@ export const COUNTRY_TO_REGION = {
   BD: { region: "apac", zone: "BD" },
   PK: { region: "apac", zone: "PK" },
   LK: { region: "apac", zone: "LK" },
+  // ASEAN extension — Cambodia / Laos / Myanmar / Brunei
+  KH: { region: "apac", zone: "KH" },
+  LA: { region: "apac", zone: "LA" },
+  MM: { region: "apac", zone: "MM" },
+  BN: { region: "apac", zone: "BN" },
 
   // LATAM
   BR: { region: "latam", zone: "BR" },
@@ -155,6 +160,10 @@ export const COUNTRY_NAME_TO_CODE = {
   vietnam: "VN", "viet nam": "VN",
   philippines: "PH",
   indonesia: "ID",
+  cambodia: "KH",
+  laos: "LA", "lao pdr": "LA",
+  myanmar: "MM", burma: "MM",
+  brunei: "BN", "brunei darussalam": "BN",
   india: "IN",
   australia: "AU",
   "new zealand": "NZ",
@@ -222,6 +231,10 @@ export const CITY_TO_COUNTRY = {
   bangkok: "TH",
   manila: "PH", "bonifacio global city": "PH", bgc: "PH",
   jakarta: "ID",
+  "phnom penh": "KH",
+  vientiane: "LA",
+  yangon: "MM", naypyidaw: "MM", naypyitaw: "MM",
+  "bandar seri begawan": "BN",
   mumbai: "IN", bangalore: "IN", bengaluru: "IN", "new delhi": "IN", delhi: "IN",
   sydney: "AU", melbourne: "AU", brisbane: "AU", perth: "AU",
   auckland: "NZ", wellington: "NZ",
