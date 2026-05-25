@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-18T20:56:29+08:00",
+  "generated_at": "2026-05-25T13:07:32+08:00",
   "region": "apac",
   "region_label": "APAC",
   "source": "ats-multi",
-  "record_count": 71,
+  "record_count": 72,
   "records": [
     {
       "company": "Axi",
@@ -16,7 +16,7 @@
       "salary_currency": "USD",
       "country": "AU",
       "source": "ats:greenhouse",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "Capital.com",
@@ -29,7 +29,20 @@
       "salary_currency": "USD",
       "country": "AU",
       "source": "ats:lever",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
+    },
+    {
+      "company": "CMC Markets",
+      "zone": "AU",
+      "function": "Tech / Engineering",
+      "count": 4,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "AU",
+      "source": "ats:workday",
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "CMC Markets",
@@ -42,20 +55,7 @@
       "salary_currency": "USD",
       "country": "AU",
       "source": "ats:workday",
-      "updated_at": "2026-05-18T20:56:28+08:00"
-    },
-    {
-      "company": "CMC Markets",
-      "zone": "AU",
-      "function": "Tech / Engineering",
-      "count": 4,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "AU",
-      "source": "ats:workday",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "CMC Markets",
@@ -68,7 +68,7 @@
       "salary_currency": "USD",
       "country": "AU",
       "source": "ats:workday",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "CMC Markets",
@@ -81,7 +81,7 @@
       "salary_currency": "USD",
       "country": "AU",
       "source": "ats:workday",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "CMC Markets",
@@ -94,7 +94,7 @@
       "salary_currency": "USD",
       "country": "AU",
       "source": "ats:workday",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "EBC Financial Group",
@@ -107,20 +107,20 @@
       "salary_currency": "USD",
       "country": "AU",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "Eightcap",
       "zone": "AU",
       "function": "Compliance / Risk",
-      "count": 4,
-      "hot": false,
+      "count": 5,
+      "hot": true,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "AU",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "Eightcap",
@@ -133,20 +133,20 @@
       "salary_currency": "USD",
       "country": "AU",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "FP Markets",
       "zone": "AU",
       "function": "Compliance / Risk",
-      "count": 6,
+      "count": 12,
       "hot": true,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
-      "country": "",
+      "country": "AU",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "IG Group",
@@ -159,46 +159,33 @@
       "salary_currency": "USD",
       "country": "AU",
       "source": "ats:workday",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "Pepperstone",
       "zone": "AU",
       "function": "Compliance / Risk",
-      "count": 9,
+      "count": 7,
       "hot": true,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "AU",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
-    },
-    {
-      "company": "Pepperstone",
-      "zone": "AU",
-      "function": "Trading / Dealing",
-      "count": 1,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "AU",
-      "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "TMGM",
       "zone": "AU",
       "function": "Compliance / Risk",
-      "count": 38,
+      "count": 36,
       "hot": true,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "AU",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "TMGM",
@@ -211,20 +198,7 @@
       "salary_currency": "USD",
       "country": "AU",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
-    },
-    {
-      "company": "TMGM",
-      "zone": "AU",
-      "function": "Marketing",
-      "count": 1,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "AU",
-      "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "Trading 212",
@@ -237,7 +211,7 @@
       "salary_currency": "USD",
       "country": "AU",
       "source": "ats:ashby",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "CXM Direct",
@@ -250,7 +224,7 @@
       "salary_currency": "USD",
       "country": "BN",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "EBC Financial Group",
@@ -263,7 +237,7 @@
       "salary_currency": "USD",
       "country": "HK",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "EBC Financial Group",
@@ -276,7 +250,20 @@
       "salary_currency": "USD",
       "country": "HK",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
+    },
+    {
+      "company": "Pepperstone",
+      "zone": "HK",
+      "function": "Compliance / Risk",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "HK",
+      "source": "ats:workable",
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "FP Markets",
@@ -289,7 +276,7 @@
       "salary_currency": "USD",
       "country": "ID",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "XM",
@@ -302,7 +289,7 @@
       "salary_currency": "USD",
       "country": "ID",
       "source": "ats:lever",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "Axi",
@@ -315,46 +302,33 @@
       "salary_currency": "USD",
       "country": "IN",
       "source": "ats:greenhouse",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "Axi",
       "zone": "IN",
       "function": "Trading / Dealing",
-      "count": 7,
+      "count": 6,
       "hot": true,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "IN",
       "source": "ats:greenhouse",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "IG Group",
       "zone": "IN",
       "function": "Tech / Engineering",
-      "count": 12,
+      "count": 10,
       "hot": true,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "IN",
       "source": "ats:workday",
-      "updated_at": "2026-05-18T20:56:28+08:00"
-    },
-    {
-      "company": "IG Group",
-      "zone": "IN",
-      "function": "Marketing",
-      "count": 2,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "IN",
-      "source": "ats:workday",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "IG Group",
@@ -367,7 +341,20 @@
       "salary_currency": "USD",
       "country": "IN",
       "source": "ats:workday",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
+    },
+    {
+      "company": "IG Group",
+      "zone": "IN",
+      "function": "Marketing",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "IN",
+      "source": "ats:workday",
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "CXM Direct",
@@ -380,7 +367,7 @@
       "salary_currency": "USD",
       "country": "JP",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "EBC Financial Group",
@@ -393,7 +380,7 @@
       "salary_currency": "USD",
       "country": "JP",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "Saxo Bank",
@@ -406,20 +393,33 @@
       "salary_currency": "USD",
       "country": "JP",
       "source": "ats:workday",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
+    },
+    {
+      "company": "XM",
+      "zone": "KR",
+      "function": "Marketing",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "KR",
+      "source": "ats:lever",
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "Axi",
       "zone": "MY",
       "function": "Compliance / Risk",
-      "count": 8,
+      "count": 6,
       "hot": true,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "MY",
       "source": "ats:greenhouse",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "Axi",
@@ -432,7 +432,7 @@
       "salary_currency": "USD",
       "country": "MY",
       "source": "ats:greenhouse",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "CXM Direct",
@@ -445,7 +445,7 @@
       "salary_currency": "USD",
       "country": "MY",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "CXM Direct",
@@ -458,7 +458,7 @@
       "salary_currency": "USD",
       "country": "MY",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "EBC Financial Group",
@@ -471,7 +471,7 @@
       "salary_currency": "USD",
       "country": "MY",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "EBC Financial Group",
@@ -484,7 +484,7 @@
       "salary_currency": "USD",
       "country": "MY",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "EBC Financial Group",
@@ -497,20 +497,7 @@
       "salary_currency": "USD",
       "country": "MY",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
-    },
-    {
-      "company": "Trade Nation",
-      "zone": "MY",
-      "function": "Compliance / Risk",
-      "count": 4,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "MY",
-      "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "Trade Nation",
@@ -523,7 +510,20 @@
       "salary_currency": "USD",
       "country": "MY",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
+    },
+    {
+      "company": "Trade Nation",
+      "zone": "MY",
+      "function": "Compliance / Risk",
+      "count": 2,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "MY",
+      "source": "ats:workable",
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "CMC Markets",
@@ -536,7 +536,7 @@
       "salary_currency": "USD",
       "country": "NZ",
       "source": "ats:workday",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "Axi",
@@ -549,7 +549,7 @@
       "salary_currency": "USD",
       "country": "PH",
       "source": "ats:greenhouse",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "Axi",
@@ -562,7 +562,7 @@
       "salary_currency": "USD",
       "country": "PH",
       "source": "ats:greenhouse",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "FP Markets",
@@ -575,7 +575,7 @@
       "salary_currency": "USD",
       "country": "PH",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "Axi",
@@ -588,20 +588,7 @@
       "salary_currency": "USD",
       "country": "SG",
       "source": "ats:greenhouse",
-      "updated_at": "2026-05-18T20:56:28+08:00"
-    },
-    {
-      "company": "CMC Markets",
-      "zone": "SG",
-      "function": "Sales / BD",
-      "count": 3,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "SG",
-      "source": "ats:workday",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "CMC Markets",
@@ -614,7 +601,20 @@
       "salary_currency": "USD",
       "country": "SG",
       "source": "ats:workday",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
+    },
+    {
+      "company": "CMC Markets",
+      "zone": "SG",
+      "function": "Sales / BD",
+      "count": 2,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "SG",
+      "source": "ats:workday",
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "CMC Markets",
@@ -627,7 +627,7 @@
       "salary_currency": "USD",
       "country": "SG",
       "source": "ats:workday",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "CMC Markets",
@@ -640,7 +640,7 @@
       "salary_currency": "USD",
       "country": "SG",
       "source": "ats:workday",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "EBC Financial Group",
@@ -653,7 +653,7 @@
       "salary_currency": "USD",
       "country": "SG",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "EBC Financial Group",
@@ -666,7 +666,7 @@
       "salary_currency": "USD",
       "country": "SG",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "FP Markets",
@@ -679,7 +679,33 @@
       "salary_currency": "USD",
       "country": "SG",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
+    },
+    {
+      "company": "IG Group",
+      "zone": "SG",
+      "function": "Trading / Dealing",
+      "count": 2,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "SG",
+      "source": "ats:workday",
+      "updated_at": "2026-05-25T13:07:32+08:00"
+    },
+    {
+      "company": "IG Group",
+      "zone": "SG",
+      "function": "Tech / Engineering",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "SG",
+      "source": "ats:workday",
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "IG Group",
@@ -692,7 +718,7 @@
       "salary_currency": "USD",
       "country": "SG",
       "source": "ats:workday",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "IG Group",
@@ -705,7 +731,7 @@
       "salary_currency": "USD",
       "country": "SG",
       "source": "ats:workday",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "IG Group",
@@ -718,33 +744,20 @@
       "salary_currency": "USD",
       "country": "SG",
       "source": "ats:workday",
-      "updated_at": "2026-05-18T20:56:28+08:00"
-    },
-    {
-      "company": "IG Group",
-      "zone": "SG",
-      "function": "Trading / Dealing",
-      "count": 1,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "SG",
-      "source": "ats:workday",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "Pepperstone",
       "zone": "SG",
       "function": "Compliance / Risk",
-      "count": 1,
+      "count": 3,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "SG",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "Saxo Bank",
@@ -757,7 +770,7 @@
       "salary_currency": "USD",
       "country": "SG",
       "source": "ats:workday",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "Swissquote",
@@ -770,33 +783,33 @@
       "salary_currency": "USD",
       "country": "SG",
       "source": "ats:smartrecruiters",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "TMGM",
       "zone": "SG",
-      "function": "Compliance / Risk",
-      "count": 2,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "SG",
-      "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
-    },
-    {
-      "company": "CXM Direct",
-      "zone": "TH",
       "function": "Compliance / Risk",
       "count": 3,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
+      "country": "SG",
+      "source": "ats:workable",
+      "updated_at": "2026-05-25T13:07:32+08:00"
+    },
+    {
+      "company": "CXM Direct",
+      "zone": "TH",
+      "function": "Compliance / Risk",
+      "count": 2,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
       "country": "TH",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "EBC Financial Group",
@@ -809,7 +822,7 @@
       "salary_currency": "USD",
       "country": "TH",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "FP Markets",
@@ -822,7 +835,7 @@
       "salary_currency": "USD",
       "country": "TH",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "Libertex",
@@ -835,7 +848,7 @@
       "salary_currency": "USD",
       "country": "TH",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "TMGM",
@@ -848,7 +861,7 @@
       "salary_currency": "USD",
       "country": "TH",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "TMGM",
@@ -861,7 +874,7 @@
       "salary_currency": "USD",
       "country": "TH",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "TMGM",
@@ -874,7 +887,7 @@
       "salary_currency": "USD",
       "country": "TH",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "EBC Financial Group",
@@ -887,7 +900,7 @@
       "salary_currency": "USD",
       "country": "TW",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "CXM Direct",
@@ -900,7 +913,7 @@
       "salary_currency": "USD",
       "country": "VN",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "CXM Direct",
@@ -913,7 +926,7 @@
       "salary_currency": "USD",
       "country": "VN",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     },
     {
       "company": "FP Markets",
@@ -926,7 +939,7 @@
       "salary_currency": "USD",
       "country": "VN",
       "source": "ats:workable",
-      "updated_at": "2026-05-18T20:56:28+08:00"
+      "updated_at": "2026-05-25T13:07:32+08:00"
     }
   ]
 }
