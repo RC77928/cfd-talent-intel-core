@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-25T13:07:32+08:00",
+  "generated_at": "2026-06-01T13:27:01+08:00",
   "region": "latam",
   "region_label": "LATAM",
   "source": "ats-multi",
-  "record_count": 18,
+  "record_count": 19,
   "records": [
     {
       "company": "CXM Direct",
@@ -16,7 +16,7 @@
       "salary_currency": "USD",
       "country": "AR",
       "source": "ats:workable",
-      "updated_at": "2026-05-25T13:07:32+08:00"
+      "updated_at": "2026-06-01T13:27:01+08:00"
     },
     {
       "company": "Libertex",
@@ -29,7 +29,7 @@
       "salary_currency": "USD",
       "country": "AR",
       "source": "ats:workable",
-      "updated_at": "2026-05-25T13:07:32+08:00"
+      "updated_at": "2026-06-01T13:27:01+08:00"
     },
     {
       "company": "Libertex",
@@ -42,7 +42,7 @@
       "salary_currency": "USD",
       "country": "AR",
       "source": "ats:workable",
-      "updated_at": "2026-05-25T13:07:32+08:00"
+      "updated_at": "2026-06-01T13:27:01+08:00"
     },
     {
       "company": "FP Markets",
@@ -55,7 +55,7 @@
       "salary_currency": "USD",
       "country": "BR",
       "source": "ats:workable",
-      "updated_at": "2026-05-25T13:07:32+08:00"
+      "updated_at": "2026-06-01T13:27:01+08:00"
     },
     {
       "company": "Capital.com",
@@ -68,7 +68,7 @@
       "salary_currency": "USD",
       "country": "CL",
       "source": "ats:lever",
-      "updated_at": "2026-05-25T13:07:32+08:00"
+      "updated_at": "2026-06-01T13:27:01+08:00"
     },
     {
       "company": "Libertex",
@@ -81,20 +81,20 @@
       "salary_currency": "USD",
       "country": "CL",
       "source": "ats:workable",
-      "updated_at": "2026-05-25T13:07:32+08:00"
+      "updated_at": "2026-06-01T13:27:01+08:00"
     },
     {
       "company": "Pepperstone",
       "zone": "CL",
       "function": "Compliance / Risk",
-      "count": 1,
+      "count": 4,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "CL",
       "source": "ats:workable",
-      "updated_at": "2026-05-25T13:07:32+08:00"
+      "updated_at": "2026-06-01T13:27:01+08:00"
     },
     {
       "company": "CXM Direct",
@@ -107,7 +107,7 @@
       "salary_currency": "USD",
       "country": "CO",
       "source": "ats:workable",
-      "updated_at": "2026-05-25T13:07:32+08:00"
+      "updated_at": "2026-06-01T13:27:01+08:00"
     },
     {
       "company": "FP Markets",
@@ -120,7 +120,20 @@
       "salary_currency": "USD",
       "country": "CO",
       "source": "ats:workable",
-      "updated_at": "2026-05-25T13:07:32+08:00"
+      "updated_at": "2026-06-01T13:27:01+08:00"
+    },
+    {
+      "company": "Libertex",
+      "zone": "CO",
+      "function": "Compliance / Risk",
+      "count": 5,
+      "hot": true,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "CO",
+      "source": "ats:workable",
+      "updated_at": "2026-06-01T13:27:01+08:00"
     },
     {
       "company": "Libertex",
@@ -133,10 +146,10 @@
       "salary_currency": "USD",
       "country": "CO",
       "source": "ats:workable",
-      "updated_at": "2026-05-25T13:07:32+08:00"
+      "updated_at": "2026-06-01T13:27:01+08:00"
     },
     {
-      "company": "Libertex",
+      "company": "Pepperstone",
       "zone": "CO",
       "function": "Compliance / Risk",
       "count": 1,
@@ -146,7 +159,7 @@
       "salary_currency": "USD",
       "country": "CO",
       "source": "ats:workable",
-      "updated_at": "2026-05-25T13:07:32+08:00"
+      "updated_at": "2026-06-01T13:27:01+08:00"
     },
     {
       "company": "Libertex",
@@ -159,7 +172,7 @@
       "salary_currency": "USD",
       "country": "DO",
       "source": "ats:workable",
-      "updated_at": "2026-05-25T13:07:32+08:00"
+      "updated_at": "2026-06-01T13:27:01+08:00"
     },
     {
       "company": "CXM Direct",
@@ -172,20 +185,20 @@
       "salary_currency": "USD",
       "country": "MX",
       "source": "ats:workable",
-      "updated_at": "2026-05-25T13:07:32+08:00"
+      "updated_at": "2026-06-01T13:27:01+08:00"
     },
     {
       "company": "Libertex",
       "zone": "MX",
       "function": "Compliance / Risk",
-      "count": 1,
-      "hot": false,
+      "count": 5,
+      "hot": true,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "MX",
       "source": "ats:workable",
-      "updated_at": "2026-05-25T13:07:32+08:00"
+      "updated_at": "2026-06-01T13:27:01+08:00"
     },
     {
       "company": "Libertex",
@@ -198,7 +211,7 @@
       "salary_currency": "USD",
       "country": "PE",
       "source": "ats:workable",
-      "updated_at": "2026-05-25T13:07:32+08:00"
+      "updated_at": "2026-06-01T13:27:01+08:00"
     },
     {
       "company": "CXM Direct",
@@ -211,7 +224,7 @@
       "salary_currency": "USD",
       "country": "UY",
       "source": "ats:workable",
-      "updated_at": "2026-05-25T13:07:32+08:00"
+      "updated_at": "2026-06-01T13:27:01+08:00"
     },
     {
       "company": "FP Markets",
@@ -224,7 +237,7 @@
       "salary_currency": "USD",
       "country": "UY",
       "source": "ats:workable",
-      "updated_at": "2026-05-25T13:07:32+08:00"
+      "updated_at": "2026-06-01T13:27:01+08:00"
     },
     {
       "company": "XM",
@@ -237,7 +250,7 @@
       "salary_currency": "USD",
       "country": "UY",
       "source": "ats:lever",
-      "updated_at": "2026-05-25T13:07:32+08:00"
+      "updated_at": "2026-06-01T13:27:01+08:00"
     }
   ]
 }
