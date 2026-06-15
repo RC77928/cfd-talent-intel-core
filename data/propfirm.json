@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T13:15:44+08:00",
+  "generated_at": "2026-06-15T13:40:14+08:00",
   "region": "propfirm",
   "region_label": "Prop Firms",
   "source": "ats-multi",
@@ -16,7 +16,7 @@
       "salary_currency": "USD",
       "country": "GB",
       "source": "ats:greenhouse",
-      "updated_at": "2026-06-08T13:15:44+08:00"
+      "updated_at": "2026-06-15T13:40:14+08:00"
     },
     {
       "company": "Maven Trading",
@@ -29,7 +29,7 @@
       "salary_currency": "USD",
       "country": "",
       "source": "ats:greenhouse",
-      "updated_at": "2026-06-08T13:15:44+08:00"
+      "updated_at": "2026-06-15T13:40:14+08:00"
     },
     {
       "company": "Maven Trading",
@@ -42,7 +42,7 @@
       "salary_currency": "USD",
       "country": "",
       "source": "ats:greenhouse",
-      "updated_at": "2026-06-08T13:15:44+08:00"
+      "updated_at": "2026-06-15T13:40:14+08:00"
     },
     {
       "company": "MyFunded Futures",
@@ -55,7 +55,7 @@
       "salary_currency": "USD",
       "country": "",
       "source": "ats:greenhouse",
-      "updated_at": "2026-06-08T13:15:44+08:00"
+      "updated_at": "2026-06-15T13:40:14+08:00"
     },
     {
       "company": "Maven Trading",
@@ -68,7 +68,7 @@
       "salary_currency": "USD",
       "country": "HK",
       "source": "ats:greenhouse",
-      "updated_at": "2026-06-08T13:15:44+08:00"
+      "updated_at": "2026-06-15T13:40:14+08:00"
     },
     {
       "company": "Maven Trading",
@@ -81,7 +81,7 @@
       "salary_currency": "USD",
       "country": "HK",
       "source": "ats:greenhouse",
-      "updated_at": "2026-06-08T13:15:44+08:00"
+      "updated_at": "2026-06-15T13:40:14+08:00"
     },
     {
       "company": "Maven Trading",
@@ -94,7 +94,7 @@
       "salary_currency": "USD",
       "country": "NL",
       "source": "ats:greenhouse",
-      "updated_at": "2026-06-08T13:15:44+08:00"
+      "updated_at": "2026-06-15T13:40:14+08:00"
     },
     {
       "company": "MyFunded Futures",
@@ -107,7 +107,7 @@
       "salary_currency": "USD",
       "country": "US",
       "source": "ats:greenhouse",
-      "updated_at": "2026-06-08T13:15:44+08:00"
+      "updated_at": "2026-06-15T13:40:14+08:00"
     }
   ]
 }
