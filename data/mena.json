@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-29T13:14:43+08:00",
+  "generated_at": "2026-07-06T12:54:05+08:00",
   "region": "mena",
   "region_label": "MENA",
   "source": "ats-multi",
-  "record_count": 13,
+  "record_count": 14,
   "records": [
     {
       "company": "Trade Nation",
@@ -16,7 +16,7 @@
       "salary_currency": "USD",
       "country": "OM",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trading 212",
@@ -29,7 +29,20 @@
       "salary_currency": "USD",
       "country": "OM",
       "source": "ats:ashby",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
+    },
+    {
+      "company": "Trading 212",
+      "zone": "OMN",
+      "function": "Operations",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "OM",
+      "source": "ats:ashby",
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trading 212",
@@ -42,7 +55,7 @@
       "salary_currency": "USD",
       "country": "OM",
       "source": "ats:ashby",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Capital.com",
@@ -55,20 +68,20 @@
       "salary_currency": "USD",
       "country": "TR",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Capital.com",
       "zone": "UAE",
       "function": "Compliance / Risk",
-      "count": 4,
+      "count": 3,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "CMC Markets",
@@ -81,7 +94,7 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "CMC Markets",
@@ -94,7 +107,7 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Saxo Bank",
@@ -107,7 +120,7 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Swissquote",
@@ -120,7 +133,7 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:smartrecruiters",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "TMGM",
@@ -133,20 +146,20 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "XM",
       "zone": "UAE",
       "function": "Marketing",
-      "count": 3,
+      "count": 2,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "XM",
@@ -159,7 +172,7 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "XM",
@@ -172,7 +185,7 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     }
   ]
 }

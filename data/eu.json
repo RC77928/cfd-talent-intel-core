@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-29T13:14:43+08:00",
+  "generated_at": "2026-07-06T12:54:05+08:00",
   "region": "eu",
   "region_label": "EU+UK",
   "source": "ats-multi",
-  "record_count": 105,
+  "record_count": 104,
   "records": [
     {
       "company": "Capital.com",
@@ -16,20 +16,7 @@
       "salary_currency": "USD",
       "country": "BG",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
-    },
-    {
-      "company": "FP Markets",
-      "zone": "BG",
-      "function": "Compliance / Risk",
-      "count": 1,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "BG",
-      "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trade Nation",
@@ -42,20 +29,20 @@
       "salary_currency": "USD",
       "country": "BG",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trading 212",
       "zone": "BG",
       "function": "Tech / Engineering",
-      "count": 6,
+      "count": 7,
       "hot": true,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "BG",
       "source": "ats:ashby",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trading 212",
@@ -68,7 +55,7 @@
       "salary_currency": "USD",
       "country": "BG",
       "source": "ats:ashby",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trading 212",
@@ -81,7 +68,7 @@
       "salary_currency": "USD",
       "country": "BG",
       "source": "ats:ashby",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trading 212",
@@ -94,7 +81,7 @@
       "salary_currency": "USD",
       "country": "BG",
       "source": "ats:ashby",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Swissquote",
@@ -107,7 +94,7 @@
       "salary_currency": "USD",
       "country": "CH",
       "source": "ats:smartrecruiters",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Swissquote",
@@ -120,7 +107,7 @@
       "salary_currency": "USD",
       "country": "CH",
       "source": "ats:smartrecruiters",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Swissquote",
@@ -133,7 +120,7 @@
       "salary_currency": "USD",
       "country": "CH",
       "source": "ats:smartrecruiters",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Swissquote",
@@ -146,7 +133,7 @@
       "salary_currency": "USD",
       "country": "CH",
       "source": "ats:smartrecruiters",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Admirals",
@@ -159,46 +146,33 @@
       "salary_currency": "USD",
       "country": "CY",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Axi",
       "zone": "CY",
       "function": "Compliance / Risk",
-      "count": 2,
+      "count": 4,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "CY",
       "source": "ats:greenhouse",
-      "updated_at": "2026-06-29T13:14:43+08:00"
-    },
-    {
-      "company": "Axi",
-      "zone": "CY",
-      "function": "Trading / Dealing",
-      "count": 1,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "CY",
-      "source": "ats:greenhouse",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Capital.com",
       "zone": "CY",
       "function": "Compliance / Risk",
-      "count": 11,
+      "count": 8,
       "hot": true,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "CY",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Capital.com",
@@ -211,7 +185,7 @@
       "salary_currency": "USD",
       "country": "CY",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "FP Markets",
@@ -224,25 +198,25 @@
       "salary_currency": "USD",
       "country": "CY",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "FP Markets",
       "zone": "CY",
       "function": "Trading / Dealing",
-      "count": 4,
+      "count": 3,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "CY",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Libertex",
       "zone": "CY",
-      "function": "Trading / Dealing",
+      "function": "Marketing",
       "count": 5,
       "hot": true,
       "salary_min": null,
@@ -250,46 +224,33 @@
       "salary_currency": "USD",
       "country": "",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Libertex",
       "zone": "CY",
       "function": "Compliance / Risk",
-      "count": 4,
+      "count": 3,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Libertex",
       "zone": "CY",
-      "function": "Marketing",
-      "count": 2,
+      "function": "Trading / Dealing",
+      "count": 3,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
-    },
-    {
-      "company": "Libertex",
-      "zone": "CY",
-      "function": "Tech / Engineering",
-      "count": 2,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "",
-      "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Libertex",
@@ -302,20 +263,20 @@
       "salary_currency": "USD",
       "country": "",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Libertex Europe",
       "zone": "CY",
       "function": "Compliance / Risk",
-      "count": 12,
+      "count": 10,
       "hot": true,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "CY",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Pepperstone",
@@ -328,7 +289,7 @@
       "salary_currency": "USD",
       "country": "CY",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Swissquote",
@@ -341,7 +302,7 @@
       "salary_currency": "USD",
       "country": "CY",
       "source": "ats:smartrecruiters",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "TMGM",
@@ -354,7 +315,7 @@
       "salary_currency": "USD",
       "country": "CY",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "TMGM",
@@ -367,7 +328,7 @@
       "salary_currency": "USD",
       "country": "CY",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "TMGM",
@@ -380,7 +341,7 @@
       "salary_currency": "USD",
       "country": "CY",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trading 212",
@@ -393,25 +354,12 @@
       "salary_currency": "USD",
       "country": "CY",
       "source": "ats:ashby",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "XM",
       "zone": "CY",
       "function": "Tech / Engineering",
-      "count": 17,
-      "hot": true,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "CY",
-      "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
-    },
-    {
-      "company": "XM",
-      "zone": "CY",
-      "function": "Compliance / Risk",
       "count": 16,
       "hot": true,
       "salary_min": null,
@@ -419,12 +367,25 @@
       "salary_currency": "USD",
       "country": "CY",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "XM",
       "zone": "CY",
       "function": "Marketing",
+      "count": 15,
+      "hot": true,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "CY",
+      "source": "ats:lever",
+      "updated_at": "2026-07-06T12:54:05+08:00"
+    },
+    {
+      "company": "XM",
+      "zone": "CY",
+      "function": "Compliance / Risk",
       "count": 14,
       "hot": true,
       "salary_min": null,
@@ -432,7 +393,7 @@
       "salary_currency": "USD",
       "country": "CY",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "XM",
@@ -445,20 +406,20 @@
       "salary_currency": "USD",
       "country": "CY",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "XM",
       "zone": "CY",
       "function": "Sales / BD",
-      "count": 2,
+      "count": 4,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "CY",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "XM",
@@ -471,7 +432,7 @@
       "salary_currency": "USD",
       "country": "CY",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Saxo Bank",
@@ -484,7 +445,7 @@
       "salary_currency": "USD",
       "country": "CZ",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Saxo Bank",
@@ -497,7 +458,7 @@
       "salary_currency": "USD",
       "country": "CZ",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trade Nation",
@@ -510,7 +471,7 @@
       "salary_currency": "USD",
       "country": "CZ",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trading 212",
@@ -523,7 +484,7 @@
       "salary_currency": "USD",
       "country": "CZ",
       "source": "ats:ashby",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Capital.com",
@@ -536,7 +497,7 @@
       "salary_currency": "USD",
       "country": "DE",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Capital.com",
@@ -549,7 +510,7 @@
       "salary_currency": "USD",
       "country": "DE",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "CMC Markets",
@@ -562,7 +523,7 @@
       "salary_currency": "USD",
       "country": "DE",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "IG Group",
@@ -575,7 +536,7 @@
       "salary_currency": "USD",
       "country": "DE",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trade Nation",
@@ -588,7 +549,7 @@
       "salary_currency": "USD",
       "country": "DE",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trade Nation",
@@ -601,33 +562,33 @@
       "salary_currency": "USD",
       "country": "DE",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trading 212",
       "zone": "DE",
       "function": "Compliance / Risk",
-      "count": 3,
+      "count": 4,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "DE",
       "source": "ats:ashby",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trading 212",
       "zone": "DE",
       "function": "Tech / Engineering",
-      "count": 2,
+      "count": 1,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "DE",
       "source": "ats:ashby",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trading 212",
@@ -640,33 +601,33 @@
       "salary_currency": "USD",
       "country": "DE",
       "source": "ats:ashby",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Saxo Bank",
       "zone": "DK",
       "function": "Tech / Engineering",
-      "count": 19,
+      "count": 23,
       "hot": true,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Saxo Bank",
       "zone": "DK",
       "function": "Compliance / Risk",
-      "count": 11,
+      "count": 10,
       "hot": true,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Saxo Bank",
@@ -679,7 +640,7 @@
       "salary_currency": "USD",
       "country": "",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Saxo Bank",
@@ -692,7 +653,7 @@
       "salary_currency": "USD",
       "country": "",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Saxo Bank",
@@ -705,7 +666,7 @@
       "salary_currency": "USD",
       "country": "",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Admirals",
@@ -718,20 +679,7 @@
       "salary_currency": "USD",
       "country": "EE",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
-    },
-    {
-      "company": "FP Markets",
-      "zone": "EE",
-      "function": "Compliance / Risk",
-      "count": 1,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "EE",
-      "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trade Nation",
@@ -744,20 +692,7 @@
       "salary_currency": "USD",
       "country": "EE",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
-    },
-    {
-      "company": "FP Markets",
-      "zone": "ES",
-      "function": "Compliance / Risk",
-      "count": 1,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "ES",
-      "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trade Nation",
@@ -770,7 +705,7 @@
       "salary_currency": "USD",
       "country": "ES",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trade Nation",
@@ -783,7 +718,20 @@
       "salary_currency": "USD",
       "country": "ES",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
+    },
+    {
+      "company": "Saxo Bank",
+      "zone": "FR",
+      "function": "Marketing",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "FR",
+      "source": "ats:workday",
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Saxo Bank",
@@ -796,7 +744,7 @@
       "salary_currency": "USD",
       "country": "FR",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Saxo Bank",
@@ -809,20 +757,20 @@
       "salary_currency": "USD",
       "country": "FR",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "XM",
       "zone": "GR",
       "function": "Tech / Engineering",
-      "count": 7,
+      "count": 8,
       "hot": true,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "GR",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "XM",
@@ -835,7 +783,7 @@
       "salary_currency": "USD",
       "country": "GR",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "XM",
@@ -848,7 +796,7 @@
       "salary_currency": "USD",
       "country": "GR",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "XM",
@@ -861,20 +809,20 @@
       "salary_currency": "USD",
       "country": "GR",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Pepperstone",
       "zone": "HU",
       "function": "Compliance / Risk",
-      "count": 3,
+      "count": 4,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "HU",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trade Nation",
@@ -887,7 +835,7 @@
       "salary_currency": "USD",
       "country": "IT",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trade Nation",
@@ -900,33 +848,7 @@
       "salary_currency": "USD",
       "country": "IT",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
-    },
-    {
-      "company": "FP Markets",
-      "zone": "LT",
-      "function": "Compliance / Risk",
-      "count": 1,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "LT",
-      "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
-    },
-    {
-      "company": "FP Markets",
-      "zone": "LV",
-      "function": "Compliance / Risk",
-      "count": 1,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "LV",
-      "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Swissquote",
@@ -939,7 +861,7 @@
       "salary_currency": "USD",
       "country": "MT",
       "source": "ats:smartrecruiters",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Swissquote",
@@ -952,7 +874,7 @@
       "salary_currency": "USD",
       "country": "MT",
       "source": "ats:smartrecruiters",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Swissquote",
@@ -965,7 +887,7 @@
       "salary_currency": "USD",
       "country": "MT",
       "source": "ats:smartrecruiters",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Saxo Bank",
@@ -978,7 +900,7 @@
       "salary_currency": "USD",
       "country": "NL",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Saxo Bank",
@@ -991,20 +913,20 @@
       "salary_currency": "USD",
       "country": "NL",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Capital.com",
       "zone": "PL",
       "function": "Compliance / Risk",
-      "count": 18,
+      "count": 17,
       "hot": true,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "PL",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Capital.com",
@@ -1017,77 +939,12 @@
       "salary_currency": "USD",
       "country": "PL",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "CMC Markets",
       "zone": "PL",
       "function": "Compliance / Risk",
-      "count": 2,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "PL",
-      "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
-    },
-    {
-      "company": "CMC Markets",
-      "zone": "PL",
-      "function": "Operations",
-      "count": 2,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "PL",
-      "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
-    },
-    {
-      "company": "CMC Markets",
-      "zone": "PL",
-      "function": "Tech / Engineering",
-      "count": 1,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "PL",
-      "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
-    },
-    {
-      "company": "IG Group",
-      "zone": "PL",
-      "function": "Tech / Engineering",
-      "count": 9,
-      "hot": true,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "PL",
-      "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
-    },
-    {
-      "company": "IG Group",
-      "zone": "PL",
-      "function": "Compliance / Risk",
-      "count": 6,
-      "hot": true,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "PL",
-      "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
-    },
-    {
-      "company": "IG Group",
-      "zone": "PL",
-      "function": "Operations",
       "count": 3,
       "hot": false,
       "salary_min": null,
@@ -1095,7 +952,111 @@
       "salary_currency": "USD",
       "country": "PL",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
+    },
+    {
+      "company": "CMC Markets",
+      "zone": "PL",
+      "function": "Operations",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "PL",
+      "source": "ats:workday",
+      "updated_at": "2026-07-06T12:54:05+08:00"
+    },
+    {
+      "company": "CMC Markets",
+      "zone": "PL",
+      "function": "Marketing",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "PL",
+      "source": "ats:workday",
+      "updated_at": "2026-07-06T12:54:05+08:00"
+    },
+    {
+      "company": "CMC Markets",
+      "zone": "PL",
+      "function": "Trading / Dealing",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "PL",
+      "source": "ats:workday",
+      "updated_at": "2026-07-06T12:54:05+08:00"
+    },
+    {
+      "company": "CMC Markets",
+      "zone": "PL",
+      "function": "Tech / Engineering",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "PL",
+      "source": "ats:workday",
+      "updated_at": "2026-07-06T12:54:05+08:00"
+    },
+    {
+      "company": "IG Group",
+      "zone": "PL",
+      "function": "Tech / Engineering",
+      "count": 7,
+      "hot": true,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "PL",
+      "source": "ats:workday",
+      "updated_at": "2026-07-06T12:54:05+08:00"
+    },
+    {
+      "company": "IG Group",
+      "zone": "PL",
+      "function": "Compliance / Risk",
+      "count": 5,
+      "hot": true,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "PL",
+      "source": "ats:workday",
+      "updated_at": "2026-07-06T12:54:05+08:00"
+    },
+    {
+      "company": "IG Group",
+      "zone": "PL",
+      "function": "Operations",
+      "count": 4,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "PL",
+      "source": "ats:workday",
+      "updated_at": "2026-07-06T12:54:05+08:00"
+    },
+    {
+      "company": "Libertex",
+      "zone": "PL",
+      "function": "Marketing",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "PL",
+      "source": "ats:workable",
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trade Nation",
@@ -1108,25 +1069,38 @@
       "salary_currency": "USD",
       "country": "PL",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trade Nation",
       "zone": "PL",
       "function": "Compliance / Risk",
-      "count": 1,
+      "count": 2,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "PL",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
-      "company": "FP Markets",
+      "company": "Trade Nation",
       "zone": "PT",
       "function": "Compliance / Risk",
+      "count": 3,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "PT",
+      "source": "ats:workable",
+      "updated_at": "2026-07-06T12:54:05+08:00"
+    },
+    {
+      "company": "Trade Nation",
+      "zone": "PT",
+      "function": "Trading / Dealing",
       "count": 1,
       "hot": false,
       "salary_min": null,
@@ -1134,33 +1108,7 @@
       "salary_currency": "USD",
       "country": "PT",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
-    },
-    {
-      "company": "Trade Nation",
-      "zone": "PT",
-      "function": "Compliance / Risk",
-      "count": 3,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "PT",
-      "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
-    },
-    {
-      "company": "Trade Nation",
-      "zone": "PT",
-      "function": "Trading / Dealing",
-      "count": 3,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "PT",
-      "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Capital.com",
@@ -1173,7 +1121,7 @@
       "salary_currency": "USD",
       "country": "GB",
       "source": "ats:lever",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "CMC Markets",
@@ -1186,7 +1134,7 @@
       "salary_currency": "USD",
       "country": "GB",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "CMC Markets",
@@ -1199,12 +1147,12 @@
       "salary_currency": "USD",
       "country": "GB",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "CMC Markets",
       "zone": "UK",
-      "function": "Sales / BD",
+      "function": "Operations",
       "count": 2,
       "hot": false,
       "salary_min": null,
@@ -1212,7 +1160,7 @@
       "salary_currency": "USD",
       "country": "GB",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "CMC Markets",
@@ -1225,7 +1173,7 @@
       "salary_currency": "USD",
       "country": "",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "CMC Markets",
@@ -1238,7 +1186,20 @@
       "salary_currency": "USD",
       "country": "GB",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
+    },
+    {
+      "company": "CMC Markets",
+      "zone": "UK",
+      "function": "Sales / BD",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "GB",
+      "source": "ats:workday",
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "CXM Direct",
@@ -1251,33 +1212,20 @@
       "salary_currency": "USD",
       "country": "",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "IG Group",
       "zone": "UK",
       "function": "Tech / Engineering",
-      "count": 5,
-      "hot": true,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "GB",
-      "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
-    },
-    {
-      "company": "IG Group",
-      "zone": "UK",
-      "function": "Marketing",
-      "count": 3,
+      "count": 4,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "GB",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "IG Group",
@@ -1290,7 +1238,7 @@
       "salary_currency": "USD",
       "country": "GB",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "IG Group",
@@ -1303,20 +1251,59 @@
       "salary_currency": "USD",
       "country": "GB",
       "source": "ats:workday",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
-      "company": "Pepperstone",
+      "company": "IG Group",
       "zone": "UK",
-      "function": "Compliance / Risk",
+      "function": "Trading / Dealing",
       "count": 1,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "GB",
+      "source": "ats:workday",
+      "updated_at": "2026-07-06T12:54:05+08:00"
+    },
+    {
+      "company": "IG Group",
+      "zone": "UK",
+      "function": "Sales / BD",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "GB",
+      "source": "ats:workday",
+      "updated_at": "2026-07-06T12:54:05+08:00"
+    },
+    {
+      "company": "IG Group",
+      "zone": "UK",
+      "function": "Marketing",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "GB",
+      "source": "ats:workday",
+      "updated_at": "2026-07-06T12:54:05+08:00"
+    },
+    {
+      "company": "Pepperstone",
+      "zone": "UK",
+      "function": "Compliance / Risk",
+      "count": 2,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "GB",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Swissquote",
@@ -1329,20 +1316,7 @@
       "salary_currency": "USD",
       "country": "GB",
       "source": "ats:smartrecruiters",
-      "updated_at": "2026-06-29T13:14:43+08:00"
-    },
-    {
-      "company": "Trade Nation",
-      "zone": "UK",
-      "function": "Trading / Dealing",
-      "count": 4,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "",
-      "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trade Nation",
@@ -1355,7 +1329,7 @@
       "salary_currency": "USD",
       "country": "GB",
       "source": "ats:workable",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
     },
     {
       "company": "Trading 212",
@@ -1368,7 +1342,20 @@
       "salary_currency": "USD",
       "country": "GB",
       "source": "ats:ashby",
-      "updated_at": "2026-06-29T13:14:43+08:00"
+      "updated_at": "2026-07-06T12:54:05+08:00"
+    },
+    {
+      "company": "Trading 212",
+      "zone": "UK",
+      "function": "Compliance / Risk",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "GB",
+      "source": "ats:ashby",
+      "updated_at": "2026-07-06T12:54:05+08:00"
     }
   ]
 }
