@@ -1,10 +1,49 @@
 {
-  "generated_at": "2026-07-06T12:54:05+08:00",
+  "generated_at": "2026-07-13T12:10:26+08:00",
   "region": "mena",
   "region_label": "MENA",
   "source": "ats-multi",
-  "record_count": 14,
+  "record_count": 18,
   "records": [
+    {
+      "company": "Capital.com",
+      "zone": "BHR",
+      "function": "Compliance / Risk",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "BH",
+      "source": "ats:lever",
+      "updated_at": "2026-07-13T12:10:26+08:00"
+    },
+    {
+      "company": "TMGM",
+      "zone": "EGY",
+      "function": "Compliance / Risk",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "EG",
+      "source": "ats:workable",
+      "updated_at": "2026-07-13T12:10:26+08:00"
+    },
+    {
+      "company": "TMGM",
+      "zone": "MAR",
+      "function": "Compliance / Risk",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "MA",
+      "source": "ats:workable",
+      "updated_at": "2026-07-13T12:10:26+08:00"
+    },
     {
       "company": "Trade Nation",
       "zone": "OMN",
@@ -16,7 +55,7 @@
       "salary_currency": "USD",
       "country": "OM",
       "source": "ats:workable",
-      "updated_at": "2026-07-06T12:54:05+08:00"
+      "updated_at": "2026-07-13T12:10:26+08:00"
     },
     {
       "company": "Trading 212",
@@ -29,7 +68,7 @@
       "salary_currency": "USD",
       "country": "OM",
       "source": "ats:ashby",
-      "updated_at": "2026-07-06T12:54:05+08:00"
+      "updated_at": "2026-07-13T12:10:26+08:00"
     },
     {
       "company": "Trading 212",
@@ -42,7 +81,7 @@
       "salary_currency": "USD",
       "country": "OM",
       "source": "ats:ashby",
-      "updated_at": "2026-07-06T12:54:05+08:00"
+      "updated_at": "2026-07-13T12:10:26+08:00"
     },
     {
       "company": "Trading 212",
@@ -55,7 +94,7 @@
       "salary_currency": "USD",
       "country": "OM",
       "source": "ats:ashby",
-      "updated_at": "2026-07-06T12:54:05+08:00"
+      "updated_at": "2026-07-13T12:10:26+08:00"
     },
     {
       "company": "Capital.com",
@@ -68,7 +107,7 @@
       "salary_currency": "USD",
       "country": "TR",
       "source": "ats:lever",
-      "updated_at": "2026-07-06T12:54:05+08:00"
+      "updated_at": "2026-07-13T12:10:26+08:00"
     },
     {
       "company": "Capital.com",
@@ -81,7 +120,7 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:lever",
-      "updated_at": "2026-07-06T12:54:05+08:00"
+      "updated_at": "2026-07-13T12:10:26+08:00"
     },
     {
       "company": "CMC Markets",
@@ -94,7 +133,7 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:workday",
-      "updated_at": "2026-07-06T12:54:05+08:00"
+      "updated_at": "2026-07-13T12:10:26+08:00"
     },
     {
       "company": "CMC Markets",
@@ -107,7 +146,20 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:workday",
-      "updated_at": "2026-07-06T12:54:05+08:00"
+      "updated_at": "2026-07-13T12:10:26+08:00"
+    },
+    {
+      "company": "Pepperstone",
+      "zone": "UAE",
+      "function": "Compliance / Risk",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "AE",
+      "source": "ats:workable",
+      "updated_at": "2026-07-13T12:10:26+08:00"
     },
     {
       "company": "Saxo Bank",
@@ -120,25 +172,25 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:workday",
-      "updated_at": "2026-07-06T12:54:05+08:00"
+      "updated_at": "2026-07-13T12:10:26+08:00"
     },
     {
-      "company": "Swissquote",
+      "company": "ThinkMarkets",
       "zone": "UAE",
-      "function": "Sales / BD",
-      "count": 1,
+      "function": "Compliance / Risk",
+      "count": 2,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "AE",
-      "source": "ats:smartrecruiters",
-      "updated_at": "2026-07-06T12:54:05+08:00"
+      "source": "ats:greenhouse",
+      "updated_at": "2026-07-13T12:10:26+08:00"
     },
     {
       "company": "TMGM",
       "zone": "UAE",
-      "function": "Trading / Dealing",
+      "function": "Compliance / Risk",
       "count": 1,
       "hot": false,
       "salary_min": null,
@@ -146,7 +198,7 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:workable",
-      "updated_at": "2026-07-06T12:54:05+08:00"
+      "updated_at": "2026-07-13T12:10:26+08:00"
     },
     {
       "company": "XM",
@@ -159,7 +211,7 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:lever",
-      "updated_at": "2026-07-06T12:54:05+08:00"
+      "updated_at": "2026-07-13T12:10:26+08:00"
     },
     {
       "company": "XM",
@@ -172,7 +224,7 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:lever",
-      "updated_at": "2026-07-06T12:54:05+08:00"
+      "updated_at": "2026-07-13T12:10:26+08:00"
     },
     {
       "company": "XM",
@@ -185,7 +237,7 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:lever",
-      "updated_at": "2026-07-06T12:54:05+08:00"
+      "updated_at": "2026-07-13T12:10:26+08:00"
     }
   ]
 }
