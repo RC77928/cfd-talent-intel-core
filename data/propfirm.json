@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T12:10:26+08:00",
+  "generated_at": "2026-07-20T12:23:32+08:00",
   "region": "propfirm",
   "region_label": "Prop Firms",
   "source": "ats-multi",
@@ -16,7 +16,7 @@
       "salary_currency": "USD",
       "country": "GB",
       "source": "ats:greenhouse",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     },
     {
       "company": "Maven Trading",
@@ -29,7 +29,7 @@
       "salary_currency": "USD",
       "country": "",
       "source": "ats:greenhouse",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     },
     {
       "company": "Maven Trading",
@@ -42,7 +42,7 @@
       "salary_currency": "USD",
       "country": "",
       "source": "ats:greenhouse",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     },
     {
       "company": "MyFunded Futures",
@@ -55,7 +55,7 @@
       "salary_currency": "USD",
       "country": "",
       "source": "ats:greenhouse",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     },
     {
       "company": "Maven Trading",
@@ -68,7 +68,7 @@
       "salary_currency": "USD",
       "country": "HK",
       "source": "ats:greenhouse",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     },
     {
       "company": "Maven Trading",
@@ -81,7 +81,7 @@
       "salary_currency": "USD",
       "country": "HK",
       "source": "ats:greenhouse",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     },
     {
       "company": "Maven Trading",
@@ -94,20 +94,20 @@
       "salary_currency": "USD",
       "country": "NL",
       "source": "ats:greenhouse",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     },
     {
       "company": "MyFunded Futures",
       "zone": "US",
       "function": "Compliance / Risk",
-      "count": 7,
+      "count": 12,
       "hot": true,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "US",
       "source": "ats:greenhouse",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     }
   ]
 }

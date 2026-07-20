@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-13T12:10:26+08:00",
+  "generated_at": "2026-07-20T12:23:32+08:00",
   "region": "latam",
   "region_label": "LATAM",
   "source": "ats-multi",
-  "record_count": 15,
+  "record_count": 14,
   "records": [
     {
       "company": "CXM Direct",
@@ -16,7 +16,7 @@
       "salary_currency": "USD",
       "country": "AR",
       "source": "ats:workable",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     },
     {
       "company": "Libertex",
@@ -29,7 +29,7 @@
       "salary_currency": "USD",
       "country": "AR",
       "source": "ats:workable",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     },
     {
       "company": "Capital.com",
@@ -42,7 +42,7 @@
       "salary_currency": "USD",
       "country": "CL",
       "source": "ats:lever",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     },
     {
       "company": "Libertex",
@@ -55,20 +55,20 @@
       "salary_currency": "USD",
       "country": "CL",
       "source": "ats:workable",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     },
     {
       "company": "Pepperstone",
       "zone": "CL",
       "function": "Compliance / Risk",
-      "count": 5,
-      "hot": true,
+      "count": 1,
+      "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "CL",
       "source": "ats:workable",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     },
     {
       "company": "CXM Direct",
@@ -81,7 +81,7 @@
       "salary_currency": "USD",
       "country": "CO",
       "source": "ats:workable",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     },
     {
       "company": "Libertex",
@@ -94,20 +94,7 @@
       "salary_currency": "USD",
       "country": "CO",
       "source": "ats:workable",
-      "updated_at": "2026-07-13T12:10:26+08:00"
-    },
-    {
-      "company": "Pepperstone",
-      "zone": "CO",
-      "function": "Compliance / Risk",
-      "count": 1,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "CO",
-      "source": "ats:workable",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     },
     {
       "company": "Libertex",
@@ -120,7 +107,7 @@
       "salary_currency": "USD",
       "country": "DO",
       "source": "ats:workable",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     },
     {
       "company": "CXM Direct",
@@ -133,7 +120,7 @@
       "salary_currency": "USD",
       "country": "MX",
       "source": "ats:workable",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     },
     {
       "company": "Libertex",
@@ -146,7 +133,7 @@
       "salary_currency": "USD",
       "country": "MX",
       "source": "ats:workable",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     },
     {
       "company": "Libertex",
@@ -159,7 +146,7 @@
       "salary_currency": "USD",
       "country": "PE",
       "source": "ats:workable",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     },
     {
       "company": "CXM Direct",
@@ -172,7 +159,7 @@
       "salary_currency": "USD",
       "country": "UY",
       "source": "ats:workable",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     },
     {
       "company": "FP Markets",
@@ -185,7 +172,7 @@
       "salary_currency": "USD",
       "country": "UY",
       "source": "ats:workable",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     },
     {
       "company": "XM",
@@ -198,7 +185,7 @@
       "salary_currency": "USD",
       "country": "UY",
       "source": "ats:lever",
-      "updated_at": "2026-07-13T12:10:26+08:00"
+      "updated_at": "2026-07-20T12:23:32+08:00"
     }
   ]
 }
