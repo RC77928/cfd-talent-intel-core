@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "talent-intel-core",
+  "name": "cfd-talent-intel-core",
   "compatibility_date": "2026-04-01",
   "main": "_worker.js",
   "assets": {
