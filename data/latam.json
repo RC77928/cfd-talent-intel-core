@@ -1,10 +1,23 @@
 {
-  "generated_at": "2026-07-20T12:23:32+08:00",
+  "generated_at": "2026-07-27T12:23:54+08:00",
   "region": "latam",
   "region_label": "LATAM",
   "source": "ats-multi",
-  "record_count": 14,
+  "record_count": 21,
   "records": [
+    {
+      "company": "CXM Direct",
+      "zone": "AR",
+      "function": "Trading / Dealing",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "AR",
+      "source": "ats:workable",
+      "updated_at": "2026-07-27T12:23:54+08:00"
+    },
     {
       "company": "CXM Direct",
       "zone": "AR",
@@ -16,7 +29,7 @@
       "salary_currency": "USD",
       "country": "AR",
       "source": "ats:workable",
-      "updated_at": "2026-07-20T12:23:32+08:00"
+      "updated_at": "2026-07-27T12:23:54+08:00"
     },
     {
       "company": "Libertex",
@@ -29,7 +42,20 @@
       "salary_currency": "USD",
       "country": "AR",
       "source": "ats:workable",
-      "updated_at": "2026-07-20T12:23:32+08:00"
+      "updated_at": "2026-07-27T12:23:54+08:00"
+    },
+    {
+      "company": "Capital.com",
+      "zone": "BR",
+      "function": "Compliance / Risk",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "BR",
+      "source": "ats:lever",
+      "updated_at": "2026-07-27T12:23:54+08:00"
     },
     {
       "company": "Capital.com",
@@ -42,7 +68,20 @@
       "salary_currency": "USD",
       "country": "CL",
       "source": "ats:lever",
-      "updated_at": "2026-07-20T12:23:32+08:00"
+      "updated_at": "2026-07-27T12:23:54+08:00"
+    },
+    {
+      "company": "CXM Direct",
+      "zone": "CL",
+      "function": "Trading / Dealing",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "CL",
+      "source": "ats:workable",
+      "updated_at": "2026-07-27T12:23:54+08:00"
     },
     {
       "company": "Libertex",
@@ -55,7 +94,7 @@
       "salary_currency": "USD",
       "country": "CL",
       "source": "ats:workable",
-      "updated_at": "2026-07-20T12:23:32+08:00"
+      "updated_at": "2026-07-27T12:23:54+08:00"
     },
     {
       "company": "Pepperstone",
@@ -68,7 +107,20 @@
       "salary_currency": "USD",
       "country": "CL",
       "source": "ats:workable",
-      "updated_at": "2026-07-20T12:23:32+08:00"
+      "updated_at": "2026-07-27T12:23:54+08:00"
+    },
+    {
+      "company": "CXM Direct",
+      "zone": "CO",
+      "function": "Trading / Dealing",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "CO",
+      "source": "ats:workable",
+      "updated_at": "2026-07-27T12:23:54+08:00"
     },
     {
       "company": "CXM Direct",
@@ -81,7 +133,7 @@
       "salary_currency": "USD",
       "country": "CO",
       "source": "ats:workable",
-      "updated_at": "2026-07-20T12:23:32+08:00"
+      "updated_at": "2026-07-27T12:23:54+08:00"
     },
     {
       "company": "Libertex",
@@ -94,7 +146,7 @@
       "salary_currency": "USD",
       "country": "CO",
       "source": "ats:workable",
-      "updated_at": "2026-07-20T12:23:32+08:00"
+      "updated_at": "2026-07-27T12:23:54+08:00"
     },
     {
       "company": "Libertex",
@@ -107,7 +159,7 @@
       "salary_currency": "USD",
       "country": "DO",
       "source": "ats:workable",
-      "updated_at": "2026-07-20T12:23:32+08:00"
+      "updated_at": "2026-07-27T12:23:54+08:00"
     },
     {
       "company": "CXM Direct",
@@ -120,7 +172,20 @@
       "salary_currency": "USD",
       "country": "MX",
       "source": "ats:workable",
-      "updated_at": "2026-07-20T12:23:32+08:00"
+      "updated_at": "2026-07-27T12:23:54+08:00"
+    },
+    {
+      "company": "CXM Direct",
+      "zone": "MX",
+      "function": "Trading / Dealing",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "MX",
+      "source": "ats:workable",
+      "updated_at": "2026-07-27T12:23:54+08:00"
     },
     {
       "company": "Libertex",
@@ -133,7 +198,20 @@
       "salary_currency": "USD",
       "country": "MX",
       "source": "ats:workable",
-      "updated_at": "2026-07-20T12:23:32+08:00"
+      "updated_at": "2026-07-27T12:23:54+08:00"
+    },
+    {
+      "company": "CXM Direct",
+      "zone": "PE",
+      "function": "Trading / Dealing",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "PE",
+      "source": "ats:workable",
+      "updated_at": "2026-07-27T12:23:54+08:00"
     },
     {
       "company": "Libertex",
@@ -146,7 +224,20 @@
       "salary_currency": "USD",
       "country": "PE",
       "source": "ats:workable",
-      "updated_at": "2026-07-20T12:23:32+08:00"
+      "updated_at": "2026-07-27T12:23:54+08:00"
+    },
+    {
+      "company": "CXM Direct",
+      "zone": "UY",
+      "function": "Trading / Dealing",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "UY",
+      "source": "ats:workable",
+      "updated_at": "2026-07-27T12:23:54+08:00"
     },
     {
       "company": "CXM Direct",
@@ -159,7 +250,7 @@
       "salary_currency": "USD",
       "country": "UY",
       "source": "ats:workable",
-      "updated_at": "2026-07-20T12:23:32+08:00"
+      "updated_at": "2026-07-27T12:23:54+08:00"
     },
     {
       "company": "FP Markets",
@@ -172,7 +263,7 @@
       "salary_currency": "USD",
       "country": "UY",
       "source": "ats:workable",
-      "updated_at": "2026-07-20T12:23:32+08:00"
+      "updated_at": "2026-07-27T12:23:54+08:00"
     },
     {
       "company": "XM",
@@ -185,7 +276,7 @@
       "salary_currency": "USD",
       "country": "UY",
       "source": "ats:lever",
-      "updated_at": "2026-07-20T12:23:32+08:00"
+      "updated_at": "2026-07-27T12:23:54+08:00"
     }
   ]
 }
