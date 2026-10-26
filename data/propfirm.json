@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:09:44+08:00",
+  "generated_at": "2026-10-26T13:11:05+08:00",
   "region": "propfirm",
   "region_label": "Prop Firms",
   "source": "ats-multi",
@@ -9,14 +9,14 @@
       "company": "Maven Trading",
       "zone": "GB",
       "function": "Trading / Dealing",
-      "count": 3,
+      "count": 4,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "GB",
       "source": "ats:greenhouse",
-      "updated_at": "2026-10-19T13:09:44+08:00"
+      "updated_at": "2026-10-26T13:11:04+08:00"
     },
     {
       "company": "Maven Trading",
@@ -29,7 +29,7 @@
       "salary_currency": "USD",
       "country": "",
       "source": "ats:greenhouse",
-      "updated_at": "2026-10-19T13:09:44+08:00"
+      "updated_at": "2026-10-26T13:11:04+08:00"
     },
     {
       "company": "Maven Trading",
@@ -42,7 +42,7 @@
       "salary_currency": "USD",
       "country": "",
       "source": "ats:greenhouse",
-      "updated_at": "2026-10-19T13:09:44+08:00"
+      "updated_at": "2026-10-26T13:11:04+08:00"
     },
     {
       "company": "MyFunded Futures",
@@ -55,20 +55,20 @@
       "salary_currency": "USD",
       "country": "",
       "source": "ats:greenhouse",
-      "updated_at": "2026-10-19T13:09:44+08:00"
+      "updated_at": "2026-10-26T13:11:04+08:00"
     },
     {
       "company": "Maven Trading",
       "zone": "HK",
       "function": "Compliance / Risk",
-      "count": 2,
+      "count": 1,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "HK",
       "source": "ats:greenhouse",
-      "updated_at": "2026-10-19T13:09:44+08:00"
+      "updated_at": "2026-10-26T13:11:04+08:00"
     },
     {
       "company": "Maven Trading",
@@ -81,7 +81,7 @@
       "salary_currency": "USD",
       "country": "HK",
       "source": "ats:greenhouse",
-      "updated_at": "2026-10-19T13:09:44+08:00"
+      "updated_at": "2026-10-26T13:11:04+08:00"
     },
     {
       "company": "Maven Trading",
@@ -94,20 +94,20 @@
       "salary_currency": "USD",
       "country": "NL",
       "source": "ats:greenhouse",
-      "updated_at": "2026-10-19T13:09:44+08:00"
+      "updated_at": "2026-10-26T13:11:04+08:00"
     },
     {
       "company": "MyFunded Futures",
       "zone": "US",
       "function": "Compliance / Risk",
-      "count": 8,
+      "count": 7,
       "hot": true,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "US",
       "source": "ats:greenhouse",
-      "updated_at": "2026-10-19T13:09:44+08:00"
+      "updated_at": "2026-10-26T13:11:04+08:00"
     }
   ]
 }
