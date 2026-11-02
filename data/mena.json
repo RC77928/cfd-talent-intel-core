@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T13:11:05+08:00",
+  "generated_at": "2026-11-02T14:40:17+08:00",
   "region": "mena",
   "region_label": "MENA",
   "source": "ats-multi",
@@ -9,14 +9,14 @@
       "company": "CXM Direct",
       "zone": "OMN",
       "function": "Compliance / Risk",
-      "count": 3,
+      "count": 2,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "OM",
       "source": "ats:workable",
-      "updated_at": "2026-10-26T13:11:04+08:00"
+      "updated_at": "2026-11-02T14:40:17+08:00"
     },
     {
       "company": "CXM Direct",
@@ -29,7 +29,7 @@
       "salary_currency": "USD",
       "country": "OM",
       "source": "ats:workable",
-      "updated_at": "2026-10-26T13:11:04+08:00"
+      "updated_at": "2026-11-02T14:40:17+08:00"
     },
     {
       "company": "FP Markets",
@@ -42,7 +42,7 @@
       "salary_currency": "USD",
       "country": "OM",
       "source": "ats:workable",
-      "updated_at": "2026-10-26T13:11:04+08:00"
+      "updated_at": "2026-11-02T14:40:17+08:00"
     },
     {
       "company": "Trade Nation",
@@ -55,7 +55,7 @@
       "salary_currency": "USD",
       "country": "OM",
       "source": "ats:workable",
-      "updated_at": "2026-10-26T13:11:04+08:00"
+      "updated_at": "2026-11-02T14:40:17+08:00"
     },
     {
       "company": "Trade Nation",
@@ -68,7 +68,7 @@
       "salary_currency": "USD",
       "country": "OM",
       "source": "ats:workable",
-      "updated_at": "2026-10-26T13:11:04+08:00"
+      "updated_at": "2026-11-02T14:40:17+08:00"
     },
     {
       "company": "Trading 212",
@@ -81,20 +81,7 @@
       "salary_currency": "USD",
       "country": "OM",
       "source": "ats:ashby",
-      "updated_at": "2026-10-26T13:11:04+08:00"
-    },
-    {
-      "company": "Axi",
-      "zone": "UAE",
-      "function": "Compliance / Risk",
-      "count": 1,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "AE",
-      "source": "ats:greenhouse",
-      "updated_at": "2026-10-26T13:11:04+08:00"
+      "updated_at": "2026-11-02T14:40:17+08:00"
     },
     {
       "company": "Capital.com",
@@ -107,20 +94,20 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:lever",
-      "updated_at": "2026-10-26T13:11:04+08:00"
+      "updated_at": "2026-11-02T14:40:17+08:00"
     },
     {
       "company": "Capital.com",
       "zone": "UAE",
       "function": "Marketing",
-      "count": 1,
+      "count": 2,
       "hot": false,
       "salary_min": null,
       "salary_max": null,
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:lever",
-      "updated_at": "2026-10-26T13:11:04+08:00"
+      "updated_at": "2026-11-02T14:40:17+08:00"
     },
     {
       "company": "Capital.com",
@@ -133,7 +120,7 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:lever",
-      "updated_at": "2026-10-26T13:11:04+08:00"
+      "updated_at": "2026-11-02T14:40:17+08:00"
     },
     {
       "company": "CMC Markets",
@@ -146,33 +133,7 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:workday",
-      "updated_at": "2026-10-26T13:11:04+08:00"
-    },
-    {
-      "company": "CMC Markets",
-      "zone": "UAE",
-      "function": "Trading / Dealing",
-      "count": 1,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "AE",
-      "source": "ats:workday",
-      "updated_at": "2026-10-26T13:11:04+08:00"
-    },
-    {
-      "company": "CXM Direct",
-      "zone": "UAE",
-      "function": "Compliance / Risk",
-      "count": 2,
-      "hot": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_currency": "USD",
-      "country": "AE",
-      "source": "ats:workable",
-      "updated_at": "2026-10-26T13:11:04+08:00"
+      "updated_at": "2026-11-02T14:40:17+08:00"
     },
     {
       "company": "CXM Direct",
@@ -185,7 +146,20 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:workable",
-      "updated_at": "2026-10-26T13:11:04+08:00"
+      "updated_at": "2026-11-02T14:40:17+08:00"
+    },
+    {
+      "company": "CXM Direct",
+      "zone": "UAE",
+      "function": "Compliance / Risk",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "AE",
+      "source": "ats:workable",
+      "updated_at": "2026-11-02T14:40:17+08:00"
     },
     {
       "company": "CXM Direct",
@@ -198,10 +172,10 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:workable",
-      "updated_at": "2026-10-26T13:11:04+08:00"
+      "updated_at": "2026-11-02T14:40:17+08:00"
     },
     {
-      "company": "FP Markets",
+      "company": "Libertex",
       "zone": "UAE",
       "function": "Compliance / Risk",
       "count": 1,
@@ -211,12 +185,38 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:workable",
-      "updated_at": "2026-10-26T13:11:04+08:00"
+      "updated_at": "2026-11-02T14:40:17+08:00"
+    },
+    {
+      "company": "TMGM",
+      "zone": "UAE",
+      "function": "Compliance / Risk",
+      "count": 1,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "AE",
+      "source": "ats:workable",
+      "updated_at": "2026-11-02T14:40:17+08:00"
     },
     {
       "company": "XM",
       "zone": "UAE",
       "function": "Sales / BD",
+      "count": 2,
+      "hot": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_currency": "USD",
+      "country": "AE",
+      "source": "ats:lever",
+      "updated_at": "2026-11-02T14:40:17+08:00"
+    },
+    {
+      "company": "XM",
+      "zone": "UAE",
+      "function": "Compliance / Risk",
       "count": 1,
       "hot": false,
       "salary_min": null,
@@ -224,7 +224,7 @@
       "salary_currency": "USD",
       "country": "AE",
       "source": "ats:lever",
-      "updated_at": "2026-10-26T13:11:04+08:00"
+      "updated_at": "2026-11-02T14:40:17+08:00"
     }
   ]
 }
